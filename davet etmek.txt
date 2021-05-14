@@ -1,0 +1,1 @@
+https://discord.com/oauth2/authorize?client_id=765603448485707856&scope=bot&permissions=21474836477&redirect_uri=kestrobot
